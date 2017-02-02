@@ -25,11 +25,6 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-name: "sonjaerock" // 자신이 원하는 멋진 블로그 이름으로 변경한다.
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GFM
 markdown: kramdown
 theme: minima
 gems:
